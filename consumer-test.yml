@@ -1,6 +1,6 @@
 myconfig:
-  version_no: 1.0.0
-  label: test
+  version_no: 1.0.1
+  label: 测试一下
   service_name: consumer
   creater: chenzifeng
   creat_time: 2021-1-7 17:22:00
