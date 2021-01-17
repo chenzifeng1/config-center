@@ -1,6 +1,6 @@
 myconfig:
-  version_no: 1.0.1
-  label: 测试一下
+  version_no: 1.0.2
+  label: 测试一下热更新，更新成功！！！
   service_name: consumer
   creater: chenzifeng
   creat_time: 2021-1-7 17:22:00
